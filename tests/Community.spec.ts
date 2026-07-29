@@ -1,4 +1,4 @@
-import { test } from "./Customfixtures.spec"
+import { test } from "../Fixtures/Customfixtures"
 
 
 test("cOMMUNITY", async({page})=>{
